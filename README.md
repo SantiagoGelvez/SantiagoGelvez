@@ -1,7 +1,33 @@
 <h1 align="center">Hi 👋, I'm Santiago Gelvez</h1>
 <h3 align="center">Software Developer | Data Engineer</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagogelvez&size_weight=0.5&count_weight=0.5&layout=compact&theme=catppuccin_mocha&show_icons=true)
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/santiagogelvez">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=santiagogelvez&count_private=true&show_icons=true&theme=catppuccin_mocha" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/santiagogelvez">
+          <img align="center" src="https://streak-stats.demolab.com?user=santiagogelvez&theme=catppuccin_mocha" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<p align="center">
+  <a href="https://github.com/santiagogelvez">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagogelvez&size_weight=0.5&count_weight=0.5&layout=compact&theme=catppuccin_mocha&show_icons=true" alt="Top Langs"/>
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
