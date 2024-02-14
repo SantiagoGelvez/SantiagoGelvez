@@ -3,9 +3,23 @@
 
 <br />
 
+<!-- <img align="center" src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,py,django,fastapi,selenium,sklearn,tensorflow,html,css,js,tailwind,bootstrap,sass,vue,nuxtjs,vite,figma,aws,azure,docker,linux,git,postman,sentry,vscode,matlab,wordpress,arduino&perline=10" /> -->
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,py,django,fastapi,selenium,sklearn,tensorflow,html,css,js,tailwind,bootstrap,sass,vue,nuxtjs,vite,figma,aws,azure,docker,linux,git,postman,sentry,vscode,matlab,wordpress,arduino&perline=10" />
+    <img align="center" src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,py,django,fastapi,selenium,sklearn,tensorflow,html,css,js,tailwind,bootstrap,sass,vue,nuxtjs,vite,figma&perline=10" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img align="center" src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,postman&perline=10" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img align="center" src="https://skillicons.dev/icons?i=sentry,vscode,matlab,wordpress,arduino&perline=10" />
   </a>
 </p>
 
