@@ -7,19 +7,19 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,py,django,fastapi,selenium,sklearn,tensorflow,html,css,js,tailwind,bootstrap,sass,vue,nuxtjs,vite,figma&perline=10" />
+    <img align="center" src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,py,django,fastapi,selenium,sklearn,tensorflow,html,css,js,tailwind,bootstrap,sass,vue,nuxtjs,vite,figma&theme=light&perline=10" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,postman&perline=10" />
+    <img align="center" src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,postman&theme=light&perline=10" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=sentry,vscode,matlab,wordpress,arduino&perline=10" />
+    <img align="center" src="https://skillicons.dev/icons?i=sentry,vscode,matlab,wordpress,arduino&theme=light&perline=10" />
   </a>
 </p>
 
