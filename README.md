@@ -19,32 +19,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=sentry,vscode,matlab,wordpress,arduino&theme=light&perline=10" />
+    <img align="center" src="https://skillicons.dev/icons?i=sentry,vscode,wordpress,arduino&theme=light&perline=10" />
   </a>
 </p>
 
-<br />
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/santiagogelvez">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=santiagogelvez&show_icons=true&theme=catppuccin_mocha" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/santiagogelvez">
-          <img align="center" src="https://streak-stats.demolab.com?user=santiagogelvez&theme=catppuccin_mocha" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
 <br />
 
 <p align="center">
@@ -53,7 +31,7 @@
   </a>
 </p>
 
-<p align="left">
+<p align="left" jus>
   Connect with me:
-  <a href="https://linkedin.com/in/santiagogelvez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiagogelvez" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/santiagogelvez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiagogelvez" height="20" width="20" /></a>
 </p>
